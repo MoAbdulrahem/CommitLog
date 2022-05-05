@@ -1,3 +1,0 @@
-/home/mohamed_nafea_dev/Desktop/Programming/DibiBase/Commitlog-prototype/build/CMakeFiles/rebuild_cache.dir
-/home/mohamed_nafea_dev/Desktop/Programming/DibiBase/Commitlog-prototype/build/CMakeFiles/edit_cache.dir
-/home/mohamed_nafea_dev/Desktop/Programming/DibiBase/Commitlog-prototype/build/CMakeFiles/Commitlog-Prototype.dir
